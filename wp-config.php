@@ -17,16 +17,16 @@
 /*define('FORCE_SSL_ADMIN', true);
 // ** Ajustes de MySQL. Solicita estos datos a tu proveedor de alojamiento web. ** //
 /** El nombre de tu base de datos de WordPress */
-define('DB_NAME', 'db_cardenal');
+define('DB_NAME', '');
 
 /** Tu nombre de usuario de MySQL */
-define('DB_USER', 'cardenal');
+define('DB_USER', '');
 
 /** Tu contraseña de MySQL */
-define('DB_PASSWORD', 'aguilasagaz');
+define('DB_PASSWORD', '');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
-define('DB_HOST', '192.168.0.61');
+define('DB_HOST', '');
 
 /** Codificación de caracteres para la base de datos. */
 define('DB_CHARSET', 'utf8');
